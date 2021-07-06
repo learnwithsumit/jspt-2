@@ -32,7 +32,7 @@ Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
 Project Link: [https://github.com/learnwithsumit/jspt-2](https://github.com/learnwithsumit/jspt-1)
 
-Youtube Video Link: [https://lwsbd.link/jspt1](https://lwsbd.link/jspt2)
+Youtube Video Link: [https://lwsbd.link/jspt2](https://lwsbd.link/jspt2)
 
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
